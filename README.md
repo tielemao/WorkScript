@@ -1,0 +1,2 @@
+# WorkScript
+这里存放平时工作中使用到和使用过的python及shell，ruby等脚本和一些yaml配置文件。己做过敏处理。
