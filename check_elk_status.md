@@ -1,10 +1,16 @@
 # 检查elk状态脚本
 
-**背景：**
+by: 铁乐猫
+
+date：2020-04-24
+
+
+
+## 背景：
 
 cbamboo2这台服务器上面运行有kibana与elasticsearch。
 
-**需求：**
+## 需求：
 
 需要对kibana和elasticsearch的运行状态做一个脚本监控。
 
@@ -16,7 +22,7 @@ cbamboo2这台服务器上面运行有kibana与elasticsearch。
 #==========================================================
 #   Copyright (C) 2020 Sangfor Ltd. All rights reserved.
 #
-#  Author:     WuWeiZeng
+#  Author:     tielemao
 #  Email:      tielemao@163.com
 #  Time:       2020-04-24
 #  Use:        check elk status
