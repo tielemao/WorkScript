@@ -1,6 +1,6 @@
 # python nmap扫描服务器端口
 
-by：铁乐与猫
+by：铁乐猫
 
 update：2019-07-17
 
@@ -27,7 +27,7 @@ nmap
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2019/7/16 19:44
-# @Author  : wuweizeng
+# @Author  : tielemao
 # @Email   : tielemao@163.com
 # @Site    :
 # @File    : serverinfo.py
